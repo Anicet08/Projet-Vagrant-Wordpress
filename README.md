@@ -1,4 +1,6 @@
 # Projet-Vagrant-Wordpress
+Objectif: Configurer un environnement de test local pour WordPress en utilisant Docker et 
+Vagrant.
 
 # La machîne virtuelle dont le vagrantfile ci-joint a été déployé avec succès
 
