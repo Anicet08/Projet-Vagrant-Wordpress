@@ -10,4 +10,4 @@ Vagrant.
 La machîne virtuelle dont le vagrantfile ci-joint a été déployé avec succès
 ![image](https://github.com/Anicet08/Projet-Vagrant-Wordpress/assets/129986487/ef830c83-a95c-4e31-9825-c444b7a8ea7a)
 
-# Phase 2: Installation et Configuration des Outils
+# Phase 2: Création de l'Environnement Docker pour WordPress
