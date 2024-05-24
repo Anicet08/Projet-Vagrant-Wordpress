@@ -14,7 +14,7 @@ La machîne virtuelle dont le vagrantfile ci-joint a été déployé avec succè
 Déploiement de WordPress en Local avec Docker
 -Création d'un fichier Dockerfile pour construire une image personnalisée de 
 WordPress.
--Écriture d'un script docker-compose.yml pour orchestrer le déploiement de 
+-Écriture d'un script docker-compose.yml avec mot de passe crypté ( secret ) pour orchestrer le déploiement de 
 WordPress et des services connexes (comme la base de données MySQL).
 -Exécution et test du déploiement en local pour s'assurer que WordPress fonctionne 
 correctement
